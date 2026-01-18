@@ -1,12 +1,16 @@
-# Privacy Policy — SafeSubmit
+# Privacy Policy - SafeSubmit
 
 SafeSubmit is a browser extension that detects scam and phishing signals on web pages and warns users before they submit sensitive data.
 
-## Data we process
+## What we do
+- Warn before you submit sensitive data on suspicious pages.
+- Explain scam and phishing risks in plain language.
+
+## Data we process (local only)
 - Website content (page text and form field labels) is analyzed locally on your device to detect scam signals.
 - We do not collect or transmit form values (passwords, OTPs, card numbers, or IDs).
 
-## Data we store
+## Data we store (local only)
 - Settings (enabled/disabled, sensitivity, allowlist) are stored locally in your browser.
 - Optional reports you create are stored locally on your device.
 
@@ -21,4 +25,4 @@ SafeSubmit is a browser extension that detects scam and phishing signals on web 
 - Local settings and reports remain on your device until you remove or clear them.
 
 ## Contact
-For questions: add your contact email here.
+For questions: altafhossain7227@gmail.com
